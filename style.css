@@ -37,3 +37,9 @@ html {
     padding: 20px;
     text-align: center;
 }
+
+.socials {
+    margin: 10px;
+    margin-left: 10px;
+    float: right;
+}
