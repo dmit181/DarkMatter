@@ -5,13 +5,10 @@ html {
     font-family: 'Julius Sans One', sans-serif;
     background-color: #1e272e;
     color: #d2dae2;
-    display: block;
-    position: absolute;
     top: 0px;
     right: 0px;
     bottom: 0px;
     left: 0px;
-    content: '';
     overflow: hidden;
 }
 
@@ -38,7 +35,7 @@ html {
     text-align: center;
 }
 
-.socials {
+e {
     margin: 10px;
     margin-left: 10px;
     float: right;
